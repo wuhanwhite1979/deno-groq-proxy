@@ -13,7 +13,7 @@
 - 提供详细的错误处理
 
 ### 使用方法
-1. 访问 [Deno Playground](https://dash.deno.com/playground)
+1. 访问 [Deno Playground](https://dash.deno.com/account/overview)
 2. 将 `server.ts`（带限流版本）或 `server.simple.ts`（简化版本）的代码复制到编辑器中
 3. 点击 "Save & Deploy" 按钮
 4. 部署完成后，您将获得一个可用的代理服务地址
@@ -29,7 +29,7 @@
 - 提供詳細的錯誤處理
 
 ### 使用方法
-1. 訪問 [Deno Playground](https://dash.deno.com/playground)
+1. 訪問 [Deno Playground](https://dash.deno.com/account/overview)
 2. 將 `server.ts`（帶限流版本）或 `server.simple.ts`（簡化版本）的代碼複製到編輯器中
 3. 點擊 "Save & Deploy" 按鈕
 4. 部署完成後，您將獲得一個可用的代理服務地址
@@ -45,7 +45,7 @@ A Deno-based Groq API proxy service designed to solve API access issues.
 - Detailed error handling
 
 ### Usage
-1. Visit [Deno Playground](https://dash.deno.com/playground)
+1. Visit [Deno Playground](https://dash.deno.com/account/overview)
 2. Copy the code from either `server.ts` (version with rate limiting) or `server.simple.ts` (simplified version) into the editor
 3. Click the "Save & Deploy" button
 4. Once deployed, you'll get a proxy service URL ready to use
@@ -61,7 +61,7 @@ Deno ベースの Groq API プロキシサービスで、API アクセスの問�
 - 詳細なエラー処理
 
 ### 使用方法
-1. [Deno Playground](https://dash.deno.com/playground) にアクセス
+1. [Deno Playground](https://dash.deno.com/account/overview) にアクセス
 2. `server.ts`（レート制限付きバージョン）または `server.simple.ts`（簡易バージョン）のコードをエディタにコピー
 3. "Save & Deploy" ボタンをクリック
 4. デプロイ完了後、使用可能なプロキシサービスのURLが発行されます
@@ -77,7 +77,7 @@ Un servicio proxy de API Groq basado en Deno diseñado para resolver problemas d
 - Manejo detallado de errores
 
 ### Uso
-1. Visite [Deno Playground](https://dash.deno.com/playground)
+1. Visite [Deno Playground](https://dash.deno.com/account/overview)
 2. Copie el código de `server.ts` (versión con límite de velocidad) o `server.simple.ts` (versión simplificada) en el editor
 3. Haga clic en el botón "Save & Deploy"
 4. Una vez implementado, obtendrá una URL de servicio proxy lista para usar
